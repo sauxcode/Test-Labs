@@ -1,0 +1,27 @@
+Proye/
+│
+├── 5_1/					           # Archivos prueba de UI y API de la 5.1
+│   ├── tests/
+│   │   ├── api_test.js
+│   │   └── ui.spec.js
+│   ├── package.json
+│   └── Passed.png 					# Prueba ejecutada
+│
+├── 5_2/     				           # Archivos de BDD de la 5.2
+│   ├── features/
+│   │   └── carrito.feature
+│   ├── imgs/
+│   │   ├── OnWeb.png
+│   │   └── Passed.png
+│   ├── tests/
+│   │   └── steps.js
+│   ├── package.json
+│   └── playwright.config.js
+│
+├── 5_3/   			               # Script de k6 y la captura
+│   ├── performance.js
+│   └── Yea.png
+│
+├── .gitignore                      # Para ignorar node_modules en todas partes
+├── #									
+└── README.md                       # Explicación general de las tres prácticas

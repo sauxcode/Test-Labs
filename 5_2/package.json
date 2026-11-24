@@ -1,0 +1,14 @@
+
+{
+  "name": "5_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "steps.js",
+  "scripts": {
+  "test": "npx bddgen && npx playwright test"
+},
+  "devDependencies": {
+    "@playwright/test": "^1.40.0",
+    "playwright-bdd": "^9.2.1"
+  }
+}

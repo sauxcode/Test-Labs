@@ -1,0 +1,17 @@
+{
+  "name": "proye",
+  "version": "1.0.0",
+  "description": "Pruebas automatizadas de UI",
+  "main": "test/apix_test.js",
+  "devDependencies": {
+    "@playwright/test": "^1.65.1",
+    "playwright": "^1.65.1"
+  },
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}

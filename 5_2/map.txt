@@ -1,0 +1,10 @@
+5_2/
+│
+├── features/                  <-- Tus archivos Gherkin
+│   └── carrite.feature			<-- Aquí van los 5 escenarios propuestos
+│
+├── tests/                     <-- Archivos de pasos (Step definitions)
+│   └── steps.js               <-- Aquí programamos qué hace cada Given/When/Then (Aquí usamos Playwright + BDD)
+│
+├── package.json
+└── playwright.config.js       <-- Configuración de Playwright
