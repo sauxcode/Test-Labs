@@ -22,6 +22,25 @@ Repositorio oficial que contiene las evidencias y soluciones correspondientes a 
 
 ---
 
+# Laboratorio de Lenguajes de Programación III - Prácticas Finales
+
+Repositorio que contiene las evidencias de las prácticas de automatización de pruebas y rendimiento:
+- **Práctica 5.1:** Pruebas automatizadas de UI y API con Playwright.
+- **Práctica 5.2:** Pruebas BDD con Gherkin y Playwright.
+- **Práctica 5.3:** Pruebas de rendimiento con k6.
+
+---
+
+## 🚀 Práctica 5.1 & 5.2: Playwright (UI, API y BDD)
+- Se implementaron pruebas de interfaz de usuario y validación de endpoints de API.
+- Se configuró Behavior-Driven Development (BDD) utilizando escenarios en archivos `.feature`.
+- **Comando de ejecución:**
+  ```bash
+  npx playwright test
+
+
+---
+
 ##🧪 Práctica 5.1: Pruebas Automatizadas con Playwright
 Descripción: Automatización de pruebas de interfaz de usuario (UI) y validación de respuestas HTTP y datos JSON consumiendo la API de Rick and Morty.
 Comando de ejecución:
@@ -50,3 +69,7 @@ Evidencia: La captura de pantalla con los resultados exitosos se encuentra en pe
 ##🚀 Autor
 Estudiante: Saul Alexander Sanchez Bautista
 Asignatura: INF5170-1 (Laboratorio de Lenguajes de Programación III)
+
+
+
+
