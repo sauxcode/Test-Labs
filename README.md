@@ -31,30 +31,22 @@ Repositorio que contiene las evidencias de las prácticas de automatización de 
 
 ---
 
-## 🚀 Práctica 5.1 & 5.2: Playwright (UI, API y BDD)
-- Se implementaron pruebas de interfaz de usuario y validación de endpoints de API.
-- Se configuró Behavior-Driven Development (BDD) utilizando escenarios en archivos `.feature`.
-- **Comando de ejecución:**
-  ```bash
-  npx playwright test
 
-
----
-
-##🧪 Práctica 5.1: Pruebas Automatizadas con Playwright
+- **🧪 Práctica 5.1: Pruebas Automatizadas con Playwright**
 Descripción: Automatización de pruebas de interfaz de usuario (UI) y validación de respuestas HTTP y datos JSON consumiendo la API de Rick and Morty.
 Comando de ejecución:
 ```bash
 npx playwright test tests/ui.spec.js
 ```
 
-##🥒 Práctica 5.2: BDD con Gherkin y Playwright (playwright-bdd)
+- **🥒 Práctica 5.2: BDD con Gherkin y Playwright (playwright-bdd)**
 Descripción: Implementación de comportamiento guiado por desarrollo (BDD) estructurado en escenarios Given/When/Then para una tienda virtual (gestión de carrito, validación de códigos de descuento y proceso de pago).
 Comando de ejecución:
 ```bash
 npx test
 ```
-##⚡ Práctica 5.3: Pruebas de Performance con k6
+
+-**⚡ Práctica 5.3: Pruebas de Performance con k6**
 Descripción: Evaluación del rendimiento y estabilidad de un servicio web simulando carga de usuarios concurrentes.
 Herramienta: k6
 Comando de ejecución:
@@ -64,7 +56,7 @@ k6 run performance/performance.js
 
 ---
 
-Evidencia: La captura de pantalla con los resultados exitosos se encuentra en performance/Yea.png.
+**Evidencia: La captura de pantalla con los resultados exitosos se encuentra en performance/Yea.png.**
 
 ##🚀 Autor
 Estudiante: Saul Alexander Sanchez Bautista
