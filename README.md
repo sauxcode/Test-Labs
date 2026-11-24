@@ -1,6 +1,9 @@
 # Test-Labs (Portafolio de Pruebas Automatizadas y de Rendimiento)
 Repositorio oficial que contiene las evidencias y soluciones correspondientes a las prácticas de automatización de pruebas, comportamiento y rendimiento del Laboratorio de Lenguajes de Programación III.
 
+
+---
+
 ###📂 Estructura del Repositorio (para más detalles, vease arch. MainMap.txt)
 ```text
 .
@@ -16,6 +19,8 @@ Repositorio oficial que contiene las evidencias y soluciones correspondientes a 
 ├── package.json            # Dependencias del proyecto
 └── .gitignore
 ```
+
+---
 
 ##🧪 Práctica 5.1: Pruebas Automatizadas con Playwright
 Descripción: Automatización de pruebas de interfaz de usuario (UI) y validación de respuestas HTTP y datos JSON consumiendo la API de Rick and Morty.
@@ -37,6 +42,8 @@ Comando de ejecución:
 ```bash
 k6 run performance/performance.js
 ```
+
+---
 
 Evidencia: La captura de pantalla con los resultados exitosos se encuentra en performance/Yea.png.
 
